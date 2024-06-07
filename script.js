@@ -81,9 +81,6 @@
 
             // let array = [1,2,3,4,5];
             // let store = array.reduce((fixValue, varValue)=>{
-            //     console.log(`fix value is ${fixValue}`);
-            //     console.log(`varable value is ${varValue}`);
-            //     console.log(`sum is ${fixValue + varValue}`);
             //     return fixValue + varValue;
             // },0);
 
